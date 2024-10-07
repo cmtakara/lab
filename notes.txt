@@ -1,0 +1,20 @@
+pryam@DESKTOP-QT0VJAD MINGW64 ~/Desktop/2024-rtt-61
+$ ls
+code/  grading/  prep/
+pryam@DESKTOP-QT0VJAD MINGW64 ~/Desktop/2024-rtt-61
+$ cd code/
+pryam@DESKTOP-QT0VJAD MINGW64 ~/Desktop/2024-rtt-61/code
+$ mkdir module301
+pryam@DESKTOP-QT0VJAD MINGW64 ~/Desktop/2024-rtt-61/code    pryam@DESKTOP-QT0VJAD MINGW64 ~/Desktop/2024-rtt-61/code  pryam@DESKTOP-QT0VJAD MINGW64 ~/Desktop/2024-rtt-61/codepryam@DESKTOP-QT0VJAD MI
+$ cd module301
+pryam@DESKTOP-QT0VJAD MINGW64 ~/Desktop/2024-rtt-61/code/module301       
+$ mkdir 2024-10-03-command-line
+pryam@DESKTOP-QT0VJAD MINGW64 ~/Desktop/2024-rtt-61/code/module301       
+$ cd 2024-10-03-command-line/
+pryam@DESKTOP-QT0VJAD MINGW64 ~/Desktop/2024-rtt-61/code/module301/2024-10-03-command-line
+$ touch index.html
+pryam@DESKTOP-QT0VJAD MINGW64 ~/Desktop/2024-rtt-61/code/module301/2024-10-03-command-line
+$ rm index.html
+pryam@DESKTOP-QT0VJAD MINGW64 ~/Desktop/2024-rtt-61/code/module301/2024-10-03-command-line
+$ touch notes.txt
+
